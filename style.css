@@ -4069,3 +4069,28 @@ margin-top: 30px;
         width:120px;
     }
 }
+@media (max-width:375px)
+{
+    .skill-card{
+        width:125px;
+    }
+    .skill-card2{
+        width:125px;
+    }
+    .skill-card3{
+        width:125px;
+    }
+    .skill-card4{
+        width:125px;
+    }
+    .skill-card5{
+        width:125px;
+    }
+    .skill-card6{
+        width:125px;
+    }
+    .skill-card7{
+        width:125px;
+    }
+}
+
