@@ -4045,30 +4045,6 @@ margin-top: 30px;
 
 
         }
-@media (max-width:360px)
-{
-    .skill-card{
-        width:120px;
-    }
-    .skill-card2{
-        width:120px;
-    }
-    .skill-card3{
-        width:120px;
-    }
-    .skill-card4{
-        width:120px;
-    }
-    .skill-card5{
-        width:120px;
-    }
-    .skill-card6{
-        width:120px;
-    }
-    .skill-card7{
-        width:120px;
-    }
-}
 @media (max-width:375px)
 {
     .skill-card{
@@ -4094,3 +4070,28 @@ margin-top: 30px;
     }
 }
 
+
+@media (max-width:360px)
+{
+    .skill-card{
+        width:120px;
+    }
+    .skill-card2{
+        width:120px;
+    }
+    .skill-card3{
+        width:120px;
+    }
+    .skill-card4{
+        width:120px;
+    }
+    .skill-card5{
+        width:120px;
+    }
+    .skill-card6{
+        width:120px;
+    }
+    .skill-card7{
+        width:120px;
+    }
+}
