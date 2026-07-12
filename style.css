@@ -3580,7 +3580,6 @@ margin-top: 10px;
 #project-section
 {
     position: relative;
-    min-height: 100vh;
     background-color: #050F19;
     overflow: hidden;
 }
